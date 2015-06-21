@@ -1,2 +1,2 @@
 # php-wp-SimplyContact
-A simple contact form for WordPress
+An easy contact form for WordPress
